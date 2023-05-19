@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   
   <groupId>com.promineotech</groupId>
-  <artifactId>mysql2-java</artifactId>
+  <artifactId>mysqlprojects2-java</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
   <properties>
